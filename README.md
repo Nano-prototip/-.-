@@ -26,3 +26,7 @@
 
 1. [Бакет](https://github.com/Nano-prototip/-.-/blob/main/bucket.tf)
 
+2. [Instance Group](https://github.com/Nano-prototip/-.-/blob/main/instance-group.tf)
+
+3. [load-balancer](https://github.com/Nano-prototip/-.-/blob/main/lb.tf)
+
