@@ -1,4 +1,3 @@
-
 //Create balancer
 resource "yandex_lb_network_load_balancer" "load-balancer-1" {
   name = "network-load-balancer"
