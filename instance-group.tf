@@ -1,3 +1,4 @@
+
 // Create SA
 resource "yandex_iam_service_account" "sa-ig" {
     name      = "sa-for-ig"
