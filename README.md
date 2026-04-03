@@ -43,7 +43,6 @@
 <img width="819" height="254" alt="04" src="https://github.com/user-attachments/assets/561f0563-5313-4992-b41f-f49d1677dbe2" />
 
 3. [load-balancer](https://github.com/Nano-prototip/-.-/blob/main/lb.tf)
-
 Проверка работоспособности
 
 <img width="575" height="221" alt="05" src="https://github.com/user-attachments/assets/be01bebd-a832-42ed-a4c9-a5421c227fa7" />
